@@ -1,6 +1,6 @@
 # inference.py
 # Script for running inference with the trained model.
-# Written by Salman Nawaz Malik. This is where the fun happens – generating text! I added sampling for variety.
+# Written by Salman Nawaz Malik. 
 
 import torch
 from model import LightweightTransformer
