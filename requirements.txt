@@ -1,0 +1,8 @@
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+peft>=0.5.0  # For LoRA if needed
+torchvision  # For any vision extensions, but optional here
+numpy
+tqdm
+bitsandbytes  # For quantization
