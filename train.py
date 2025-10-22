@@ -1,6 +1,6 @@
 # train.py
 # Script to train the model on a text dataset.
-# Written by Salman Nawaz Malik. I made it simple so anyone can run it. Added tqdm for progress because who likes waiting blindly?
+# Written by Salman Nawaz Malik.
 
 import torch
 from model import LightweightTransformer
